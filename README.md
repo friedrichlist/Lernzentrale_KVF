@@ -13,6 +13,7 @@ Der Lernstand bleibt im Browser des jeweiligen Geräts. Kein Backend, keine Anme
 | `GAP1_Pruefungstraining.html` | Prüfungstraining GAP 1 (6 Prüfungsbereiche, 617 Aufgaben mit Rechenwerkstatt Wohnen, Simulation) |
 | `GAP2_T11_Pruefungstraining.html` | Prüfungstraining GAP 2 Teil 1.1 (5 Prüfungsaufgaben, 192 Aufgaben in der Hauptrunde + 167 in der Zusatzrunde, Simulation) – im Pass sichtbar ab dem Monat nach der GAP 1 der Klasse |
 | `GAP2_T12_Wohnen.html`, `GAP2_T12_Beruf_und_Freizeit.html`, `GAP2_T12_Mobilitaet_und_Reisen.html`, `GAP2_T12_Einkommen_und_Hinterbliebene.html`, `GAP2_T12_Gesundheit_und_Pflege.html`, `GAP2_T12_Vorsorge.html` | Prüfungstraining GAP 2 Teil 1.2, je Sparte 56 Aufgaben mit Simulation. Im Pass wählt jede/r die eigene Sparte (ab drei Monate vor GAP 2); Gesundheit und Pflege mit Rechtsstand 01.01.2026 |
+| `SG_LF04_Fahrrad_Detektiv.html` | Serious Game „Der Fahrrad-Detektiv“ (LF 4, LS 04.1/04.2, GAP 1 Bereich 4; Klausel-Game mit Film) – Filme, Bilder und Stimmen lädt das Spiel aus dem Repo `Lernzentrale_Medien_Fahrrad` (https://friedrichlist.github.io/Lernzentrale_Medien_Fahrrad/), erst wenn sie drankommen. Spielstand nur im Browser. Freigegeben 24.10.2026 |
 | `pruefungspass.html` | Weiterleitung auf `index.html` (für Links aus den Modulen) |
 | `datenschutz.html` | Datenschutzhinweis – gebaut mit `bau_pass.py` |
 | `icon-180.png`, `icon-192.png`, `icon-512.png` | App-Symbol (Icon der Listschule) für „Zum Home-Bildschirm“ |
